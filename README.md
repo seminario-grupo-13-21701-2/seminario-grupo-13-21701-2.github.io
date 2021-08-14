@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+# El COVID 19 en la balanza política 
 
-You can use the [editor on GitHub](https://github.com/seminario-grupo-13-21701-2/seminario-grupo-13-21701-2.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+El contexto geopolítico actual, se ha visto afectado desde el 2020 por el virus COVID 19, aunque se han logrado fabricar vacunas para poder contener el virus, estos últimos 2 años nos han revelado las diferencias políticas en el mundo y como estas pueden afectar negativamente la relación entre países e internamente conflictos entre miembros de una misma comunidad; un ejemplo acorde a la situación 
 
 ### Markdown
 
