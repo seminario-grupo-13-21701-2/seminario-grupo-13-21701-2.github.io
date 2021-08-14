@@ -12,3 +12,10 @@ El contexto geopolítico actual, se ha visto afectado desde el 2019 por el virus
     * Objetivo Específico 2
 * Objetivos Generales: 
     * Objetivo General 1
+
+
+## Integrantes
+- Maria Paula Balaguera Contreras 
+- Said Simon Aljure Quintero 
+- Jose Luis Acevedo Porras 
+- Alejandra Sofía Alarcón Ramírez
