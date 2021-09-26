@@ -88,7 +88,7 @@ mediciones de una **misma muestra** a través del tiempo.
 
 
 ### Definición de Variables
-* **Conceptualmente:** Definición que explica cómo se va a entender la variable dentro del contexto de esta investigación
+* **Conceptualmente:** Definición que explica cómo se va a entender la variable dentro del contexto de esta investigación.
   * **Orientación política:** Se entiende por cada país incluido en el estudio como una variable compuesta que representa 
 si un país es más democrático o menos democrático en un sentido holístico y relativo en el que se tienen en cuenta tanto 
 las elecciones la regulación que se lleva a cabo, control de corrupción y el Rule of Law.
@@ -96,7 +96,7 @@ las elecciones la regulación que se lleva a cabo, control de corrupción y el R
 coronavirus luego de que se empezaran a fabricar vacunas medido en términos se salud humana 
 (y no económicamente por ejemplo).
 
-* **Operacionalmente:** Procedimientos necesarios para medir una variable e interpretar los resultados
+* **Operacionalmente:** Procedimientos necesarios para medir una variable e interpretar los resultados.
   * **Orientación Política:** De la base de datos del World Bank, para llegar a la orientación política, 
 tendremos en cuenta en un plazo de 8 años, que comprende de 2013-2020 las 6 macrovariables que esta base 
 de datos nos provee:
