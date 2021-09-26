@@ -33,8 +33,8 @@ Determinar la relación entre las tendencias políticas de países democráticos
 
 Nuestra investigación tiene un **enfoque mixto**, pues implica la recoleccion de datos tanto cuantitativos como
 cualitativos para su análisis en conjunto, las tendencias políticas son subjetivas (parte cualitativa) y las tasas de
-vacunación son medibles (parte cuantitativa). En cuanto al **tipo**, se trata de una **investigación observacional**, **
-retrospectiva**, **longitudinal**, y **analítica**; pues se trata de un análisis bivariable, cuyos datos fueron medidos
+vacunación son medibles (parte cuantitativa). En cuanto al **tipo**, se trata de una **investigación observacional**, 
+**retrospectiva**, **longitudinal**, y **analítica**; pues se trata de un análisis bivariable, cuyos datos fueron medidos
 a lo largo de un periodo de tiempo y recolectados por un tercero, sin intervención de los investigadores del presente
 informe. En cuanto al **nivel**, se trata de una investigación **descriptiva y relacional**, pues busca describir
 fenómenos sociales en una situación temporal y geográfica determinada para estimar parámetros, y su estadística
@@ -47,6 +47,7 @@ demuestra dependencia entre eventos más no relación de causa-efecto.
 * **Hipótesis correlacional, direccional** porque se especifica la relacion (cómo es el efecto)
   entre la variable de segmentación (tendencia política) y la variable de contraste (tasa de vacunación).
 
+## Matrix de Datos
 <table>
   <tr>
     <td colspan="4" style="text-align: center"><b>Matriz de Datos</b></td>
