@@ -47,7 +47,7 @@ demuestra dependencia entre eventos más no relación de causa-efecto.
 * **Hipótesis correlacional, direccional** porque se especifica la relacion (cómo es el efecto)
   entre la variable de segmentación (tendencia política) y la variable de contraste (tasa de vacunación).
 
-## Matrix de Datos
+## Matriz de Datos
 <table>
   <tr>
     <td colspan="4" style="text-align: center"><b>Matriz de Datos</b></td>
